@@ -1,8 +1,5 @@
 @extends('layouts.app')
 
-
-
-
 @section('content')
 <div class="container py-1">
     <h2 class="mb-1 text-dark fw-bold">Dashboard Karyawan</h2>
